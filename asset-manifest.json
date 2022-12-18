@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.js": "/ahmedsalama288/React-ip-address-tracker-master/static/js/main.2b539d1b.js",
+    "main.js": "/ahmedsalama288/React-ip-address-tracker-master/static/js/main.65353e61.js",
     "static/media/pattern-bg.png": "/ahmedsalama288/React-ip-address-tracker-master/static/media/pattern-bg.a60a3c85aa8b88aac4b7.png",
     "index.html": "/ahmedsalama288/React-ip-address-tracker-master/index.html",
-    "static/media/icon-location.svg": "/ahmedsalama288/React-ip-address-tracker-master/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
-    "main.2b539d1b.js.map": "/ahmedsalama288/React-ip-address-tracker-master/static/js/main.2b539d1b.js.map"
+    "main.65353e61.js.map": "/ahmedsalama288/React-ip-address-tracker-master/static/js/main.65353e61.js.map"
   },
   "entrypoints": [
-    "static/js/main.2b539d1b.js"
+    "static/js/main.65353e61.js"
   ]
 }
