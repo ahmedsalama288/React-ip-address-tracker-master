@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ahmedsalama288/React-ip-address-tracker-master/static/css/main.de94522a.css",
+    "main.js": "/ahmedsalama288/React-ip-address-tracker-master/static/js/main.db281a5f.js",
+    "static/media/fa-solid-900.ttf": "/ahmedsalama288/React-ip-address-tracker-master/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/ahmedsalama288/React-ip-address-tracker-master/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/ahmedsalama288/React-ip-address-tracker-master/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/ahmedsalama288/React-ip-address-tracker-master/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/pattern-bg.png": "/ahmedsalama288/React-ip-address-tracker-master/static/media/pattern-bg.a60a3c85aa8b88aac4b7.png",
+    "static/media/fa-regular-400.ttf": "/ahmedsalama288/React-ip-address-tracker-master/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/ahmedsalama288/React-ip-address-tracker-master/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/ahmedsalama288/React-ip-address-tracker-master/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ahmedsalama288/React-ip-address-tracker-master/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/ahmedsalama288/React-ip-address-tracker-master/index.html",
+    "static/media/icon-location.svg": "/ahmedsalama288/React-ip-address-tracker-master/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
+    "main.de94522a.css.map": "/ahmedsalama288/React-ip-address-tracker-master/static/css/main.de94522a.css.map",
+    "main.db281a5f.js.map": "/ahmedsalama288/React-ip-address-tracker-master/static/js/main.db281a5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de94522a.css",
+    "static/js/main.db281a5f.js"
+  ]
+}
