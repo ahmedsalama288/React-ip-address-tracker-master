@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ahmedsalama288/React-ip-address-tracker-master/static/css/main.c589c2fa.css",
+    "main.css": "/ahmedsalama288/React-ip-address-tracker-master/static/css/main.d1e5c231.css",
     "main.js": "/ahmedsalama288/React-ip-address-tracker-master/static/js/main.2b539d1b.js",
     "static/media/fa-solid-900.ttf": "/ahmedsalama288/React-ip-address-tracker-master/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/ahmedsalama288/React-ip-address-tracker-master/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/ahmedsalama288/React-ip-address-tracker-master/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/ahmedsalama288/React-ip-address-tracker-master/index.html",
     "static/media/icon-location.svg": "/ahmedsalama288/React-ip-address-tracker-master/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
-    "main.c589c2fa.css.map": "/ahmedsalama288/React-ip-address-tracker-master/static/css/main.c589c2fa.css.map",
+    "main.d1e5c231.css.map": "/ahmedsalama288/React-ip-address-tracker-master/static/css/main.d1e5c231.css.map",
     "main.2b539d1b.js.map": "/ahmedsalama288/React-ip-address-tracker-master/static/js/main.2b539d1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c589c2fa.css",
+    "static/css/main.d1e5c231.css",
     "static/js/main.2b539d1b.js"
   ]
 }
