@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-ip-address-tracker-master/static/css/main.87e35453.css",
-    "main.js": "/React-ip-address-tracker-master/static/js/main.dc72769d.js",
+    "main.css": "/React-ip-address-tracker-master/static/css/main.d3b6328f.css",
+    "main.js": "/React-ip-address-tracker-master/static/js/main.d083a9b0.js",
     "static/media/fa-solid-900.ttf": "/React-ip-address-tracker-master/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/React-ip-address-tracker-master/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
     "static/media/fa-solid-900.woff2": "/React-ip-address-tracker-master/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
@@ -13,11 +13,12 @@
     "static/media/fa-v4compatibility.woff2": "/React-ip-address-tracker-master/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/React-ip-address-tracker-master/index.html",
     "static/media/icon-location.svg": "/React-ip-address-tracker-master/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
-    "main.87e35453.css.map": "/React-ip-address-tracker-master/static/css/main.87e35453.css.map",
-    "main.dc72769d.js.map": "/React-ip-address-tracker-master/static/js/main.dc72769d.js.map"
+    "static/media/icon-arrow.svg": "/React-ip-address-tracker-master/static/media/icon-arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
+    "main.d3b6328f.css.map": "/React-ip-address-tracker-master/static/css/main.d3b6328f.css.map",
+    "main.d083a9b0.js.map": "/React-ip-address-tracker-master/static/js/main.d083a9b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.87e35453.css",
-    "static/js/main.dc72769d.js"
+    "static/css/main.d3b6328f.css",
+    "static/js/main.d083a9b0.js"
   ]
 }
