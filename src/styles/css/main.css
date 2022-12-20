@@ -1,0 +1,194 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+  background-color: #444;
+  color: white;
+}
+
+main {
+  position: relative;
+  height: calc(100vh - 36px);
+}
+main h1 {
+  position: relative;
+  z-index: 1;
+  margin-top: 36px;
+  font-size: 36px;
+  text-align: center;
+  font-weight: 500;
+}
+main > img {
+  position: absolute;
+  top: -36px;
+  left: 0px;
+  width: 100%;
+  height: 38vh;
+}
+main .search {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  width: 100%;
+  height: 66px;
+  margin-top: 35px;
+  align-items: center;
+  justify-content: center;
+}
+main .search input {
+  height: inherit;
+  width: 550px;
+  max-width: 100%;
+  padding: 10px 10px 10px 25px;
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  border-radius: 17px 0px 0px 17px;
+  color: hsl(0deg, 0%, 17%);
+}
+main .search input:focus {
+  outline: none;
+}
+main .search input::-moz-placeholder {
+  color: hsl(0deg, 0%, 59%);
+  font-size: 20px;
+  font-weight: 500;
+}
+main .search input:-ms-input-placeholder {
+  color: hsl(0deg, 0%, 59%);
+  font-size: 20px;
+  font-weight: 500;
+}
+main .search input::placeholder {
+  color: hsl(0deg, 0%, 59%);
+  font-size: 20px;
+  font-weight: 500;
+}
+main .search button {
+  cursor: pointer;
+  height: inherit;
+  width: 68px;
+  border: none;
+  border-radius: 0px 17px 17px 0px;
+  background-color: black;
+  transition: background-color 0.2s;
+}
+main .search button:hover {
+  background-color: hsl(0deg, 0%, 17%);
+}
+main .search button > img {
+  width: 12px;
+  padding-left: 2px;
+  color: white;
+}
+main .display-info {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 30px 25px;
+  gap: 40px;
+  margin: 50px auto 0px;
+  width: 1150px;
+  border-radius: 12px;
+  max-width: 100%;
+  background-color: white;
+  color: black;
+}
+main .display-info .info-contan {
+  position: relative;
+  width: 22%;
+  max-width: 100%;
+}
+main .display-info .info-contan h4 {
+  color: hsl(0deg, 0%, 59%);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  font-size: 14px;
+}
+main .display-info .info-contan p {
+  margin-top: 15px;
+  font-size: 28px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.77);
+  padding: 0px 5px 10px 0px;
+}
+main .display-info .info-contan.border::before {
+  content: "";
+  position: absolute;
+  height: 90%;
+  width: 1px;
+  background-color: hsla(0deg, 0%, 59%, 0.36);
+  left: -35px;
+  top: 5%;
+}
+main .leaflet-container {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  z-index: 0;
+  margin: auto;
+  width: 100%;
+  height: 62vh;
+  outline: none;
+}
+
+@media (max-width: 1200px) {
+  main .search {
+    height: 60px;
+    width: 60%;
+    margin: 25px auto 0px;
+  }
+  main .search input {
+    width: 100%;
+  }
+  main .display-info {
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    width: 60%;
+    margin-top: 25px;
+  }
+  main .display-info .info-contan {
+    text-align: center;
+    width: 100%;
+  }
+  main .display-info .info-contan p {
+    font-size: 24px;
+    padding: 0px 0px 10px 0px;
+  }
+  main .display-info .info-contan.border::before {
+    display: none;
+  }
+}
+@media (max-width: 740px) {
+  main .search {
+    height: 55px;
+    width: 90%;
+  }
+  main .search input {
+    font-size: 16px;
+  }
+  main .search input::-moz-placeholder {
+    font-size: 14px;
+  }
+  main .search input:-ms-input-placeholder {
+    font-size: 14px;
+  }
+  main .search input::placeholder {
+    font-size: 14px;
+  }
+  main .display-info {
+    width: 90%;
+  }
+  main .display-info .info-contan p {
+    margin-top: 3px;
+    padding: 0px 0px;
+  }
+}/*# sourceMappingURL=main.css.map */
